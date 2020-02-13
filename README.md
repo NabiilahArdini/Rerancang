@@ -1,9 +1,7 @@
 # Rerancang
 Artikel mengenai serba-serbi perancangan data dan perancangan penelitian.
 
-<center>
 ![](image/datacol.jpg)
-</center>
 
 Perkembangan *Internet of Things* dan teknologi telah merubah dunia. Data semakin mudah didapatkan dan menjadi fokus dari berbagai perusahaan besar di dunia. Pengambilan keputusan bisnis berdasarkan data menjadi semakin menjanjikan dan menjadi hal yang lumrah. Pembuatan mesin prediksi dan automisasi pekerjaan atau yang biasa dikenal dengan istilah *Machine Learning* dan *Artificial Intellegence* (AI) semakin merajalela, berikut bermunculannya profesi baru di bidang data sebagai Data Analyst, Data Scientist, dan lain-lain. Data bagaikan komoditas baru yang semakin gencar dicari dan menunggu untuk diolah, dibalut dalam satu topik besar yang kini jadi pembicaraan banyak orang yaitu *Data Science*.
 
@@ -27,9 +25,7 @@ Karena proses sensus terlalu lama dan membutuhkan biaya yang banyak, maka dilaku
 
 Sample inilah yang dimaksud dengan data dan banyaknya data yang akan digunakan dalam project data science.
 
-<center>
 ![](image/samplepop.png)
-</center>
 
 # Rancangan Penelitian
 
@@ -39,9 +35,7 @@ Kumpulan sample yang dianalisis dalam proyek data science telah dirancang sedemi
 
 Dalam merancang penelitian, kita dapat menentukan terlebih dahulu pendekatan riset yang kita ambil. Berikut adalah 3 tipe pendekatan riset yang masing-masing merujuk pada tipe rancangan penelitian yang sesuai.
 
-<center>
 ![](image/rpen.png)
-</center>
 
 **1. Exploratory** 
 
@@ -199,11 +193,7 @@ Selain menggunakan Mead's Resource Equation, kita juga dapat menggunakan pendeka
 
 Setelah mengeksplorasi macam-macam prinsip dan cara merancang data, mari kita praktikan ilmu baru kita dalam merancang data. Bayangkan Anda adalah seorang *researcher* yang ingin menawarkan suatu produk inovasi terbaru berupa pupuk prebiotik yang diklaim mampu meningkatkan pertumbuhan tanaman cabai di media tanam tanah gembur maupun tanah liat berhumus. Untuk itu, Anda ingin menganalisis pengaruh penggunaan pupuk prebiotik terhadap pertumbuhan tanaman cabai. Research design seperti apa yang akan anda rancang?
 
-<br>
-<center>
 ![](image/chilli.jpg)
-</center>
-<br>
 
 Untuk mempermudah, kita dapat mengisi pertanyaan-pertanyaan berikut:
 
@@ -237,15 +227,11 @@ Jumlah perlakuan total adalah 12 (`(5+1)*2 = 12`). Tiap perlakuan akan memiliki 
 
 Berikut adalah blocking sebelum dilakukan randomisasi:
 
-<center>
 ![](image/before.PNG)
-</center>
 
 Berikut adalah blocking setelah dilakukan randomisasi:
 
-<center>
 ![](image/after.PNG)
-</center>
 
 Demikianlah contoh pembuatan rancangan penelitian untuk mengumpulkan data yang kita butuhkan. Semoga artikel ini bermanfaat dalam memulai project-project data science Anda selanjutnya!
 
