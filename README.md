@@ -1,11 +1,9 @@
 # Rerancang
 Artikel mengenai serba-serbi perancangan data dan perancangan penelitian.
- 
-<br>
+
 <center>
 ![](image/datacol.jpg)
 </center>
-<br>
 
 Perkembangan *Internet of Things* dan teknologi telah merubah dunia. Data semakin mudah didapatkan dan menjadi fokus dari berbagai perusahaan besar di dunia. Pengambilan keputusan bisnis berdasarkan data menjadi semakin menjanjikan dan menjadi hal yang lumrah. Pembuatan mesin prediksi dan automisasi pekerjaan atau yang biasa dikenal dengan istilah *Machine Learning* dan *Artificial Intellegence* (AI) semakin merajalela, berikut bermunculannya profesi baru di bidang data sebagai Data Analyst, Data Scientist, dan lain-lain. Data bagaikan komoditas baru yang semakin gencar dicari dan menunggu untuk diolah, dibalut dalam satu topik besar yang kini jadi pembicaraan banyak orang yaitu *Data Science*.
 
@@ -29,11 +27,9 @@ Karena proses sensus terlalu lama dan membutuhkan biaya yang banyak, maka dilaku
 
 Sample inilah yang dimaksud dengan data dan banyaknya data yang akan digunakan dalam project data science.
 
-<br>
 <center>
 ![](image/samplepop.png)
 </center>
-<br>
 
 # Rancangan Penelitian
 
@@ -43,11 +39,9 @@ Kumpulan sample yang dianalisis dalam proyek data science telah dirancang sedemi
 
 Dalam merancang penelitian, kita dapat menentukan terlebih dahulu pendekatan riset yang kita ambil. Berikut adalah 3 tipe pendekatan riset yang masing-masing merujuk pada tipe rancangan penelitian yang sesuai.
 
-<br>
 <center>
 ![](image/rpen.png)
 </center>
-<br>
 
 **1. Exploratory** 
 
@@ -243,23 +237,24 @@ Jumlah perlakuan total adalah 12 (`(5+1)*2 = 12`). Tiap perlakuan akan memiliki 
 
 Berikut adalah blocking sebelum dilakukan randomisasi:
 
-<br>
 <center>
 ![](image/before.PNG)
 </center>
-<br>
 
 Berikut adalah blocking setelah dilakukan randomisasi:
 
-<br>
 <center>
 ![](image/after.PNG)
 </center>
-<br>
 
 Demikianlah contoh pembuatan rancangan penelitian untuk mengumpulkan data yang kita butuhkan. Semoga artikel ini bermanfaat dalam memulai project-project data science Anda selanjutnya!
 
+# Daftar Pustaka
+
 [^1]: [University of Missoury - St.Louis. *Population and Sampling*. Accessed 12 February 2020](https://www.umsl.edu/~lindquists/sample.html)
+
 [^2]: Kirshenblatt-Gimblett, B. 2006. *Part 1, What Is Research Design? The Context of Design*. Performance Studies Methods Course Syllabus. New York: New York University
+
 [^3]: Center for Research Informatics Bioinformatics Core, The University of Chicago Medicine & Biological Science. 2015. *Bioinformatics Advice on Experimental Design*
+
 [^4]: [Qualtrics. 2020. *Determining Sample Size: How to Ensure You Get the Correct Sample*. Accessed 12 February 2020](https://www.qualtrics.com/experience-management/research/determine-sample-size)
